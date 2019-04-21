@@ -1,0 +1,13 @@
+Algorithm    Result    Running Time    Number Of Digits
+Karatsuba Method    6    2.3e-05 2
+Classic Method    6    1.4e-05 2
+Karatsuba Method    120    1.3e-05 4
+Classic Method    120    1.1e-05 4
+Karatsuba Method    59675    5.5e-05 8
+Classic Method    59675    4.3e-05 8
+Karatsuba Method    7881606315    0.000181 16
+Classic Method    7881606315    0.000188 16
+Karatsuba Method   478158136290044     0.000423 32
+Classic Method    -9223372036854775808     0.000671 32
+Karatsuba Method   956316272580088    0.001186 64
+Classic Method    -9223372036854775808      0.003464 64
